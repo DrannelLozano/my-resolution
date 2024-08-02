@@ -3,3 +3,5 @@ Rencana Konten Saya
  * Laravel
 - Membuat Portofolio
  * Linkedin
+- Frame workd javascript
+- Python
